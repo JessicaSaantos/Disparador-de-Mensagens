@@ -1,2 +1,2 @@
 # Disparador-de-Mensagens
- Disparador de mensagens para WhatsApp
+ Disparador de mensagens para WhatsApp, com objetivo profissional.
